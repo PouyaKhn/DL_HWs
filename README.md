@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/repo-size/PouyaKhn/DL_HWs)
 
 # Deep Learning Course Codes and Solutions
-This repository contains my codes and Solutions for HomeWorks of Deep Learning course held at Sharif University of Technology (SUT) by Prof. Hamid Beigi in Spring 2022.
+This repository contains my codes and Solutions for HomeWorks of Deep Learning course held at [Sharif University of Technology (SUT)](https://en.sharif.edu/) by [Prof. Hamid Beigy](https://scholar.google.com/citations?user=0NiKG0EAAAAJ&hl=en) in Spring 2022.
  
 ## HomeWorks
 
