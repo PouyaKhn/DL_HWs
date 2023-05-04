@@ -34,4 +34,4 @@ Practical: [[Solution for GAN notebook]](HW4/Practical/GAN_99210283.ipynb) [[Sol
 
 Theoretical: [[Questions]](HW5/HW5_Questions.pdf) [[Solutions]](HW5/Theoretical/HW5_99210283.pdf)
 
-Practical: [[Questions]](HW5/HW5_Questions.pdf) [[Solution for Q4]](HW5/Practical/Q4_99210283.ipynb) [[Solution for Q6 (Custom Environment for RL]](HW5/Practical/Q6_Custom_environment_99210283.ipynb) [[Solution for Q6 (Policy Gradient for RL]](HW5/Practical/Q6_Policy_Gradient_99210283.ipynb)
+Practical: [[Questions]](HW5/HW5_Questions.pdf) [[Solution for Q4]](HW5/Practical/Q4_99210283.ipynb) [[Solution for Q6 (Custom Environment for RL)]](HW5/Practical/Q6_Custom_environment_99210283.ipynb) [[Solution for Q6 (Policy Gradient for RL)]](HW5/Practical/Q6_Policy_Gradient_99210283.ipynb)
